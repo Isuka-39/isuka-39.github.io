@@ -1,3 +1,7 @@
 title: 残響の頁
-description: 太陽になってしまった人の、静かな記録
-theme: jekyll-theme-midnight
+description: 太陽になってしまった人の記録
+theme: jekyll-theme-minima
+
+# 以下が重要
+plugins:
+  - jekyll-feed
